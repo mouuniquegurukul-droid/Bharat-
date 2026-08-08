@@ -1,0 +1,6 @@
+{
+  "name": "BHARAT OS",
+  "description": "AI-Powered National Development Intelligence & District Command System for Viksit Bharat 2047",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
